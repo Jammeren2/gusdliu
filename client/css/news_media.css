@@ -1,0 +1,23 @@
+@media (max-width: 1300px) {
+    #news {
+        margin: 0;
+        align-items: center;
+    }
+    .nns {
+        width: 80%;
+    }
+}
+ 
+ 
+@media (max-width: 800px) {
+    .nns {
+        width: 85%;
+    }
+}
+
+
+@media (max-width: 490px) {
+    .nns {
+        width: 95%;
+    }
+}
